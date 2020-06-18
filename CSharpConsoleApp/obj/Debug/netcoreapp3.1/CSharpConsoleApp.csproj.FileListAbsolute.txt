@@ -1,0 +1,71 @@
+/home/petrus/Pulpit/c#.net/CSharpConsoleApp/bin/Debug/netcoreapp3.1/CSharpConsoleApp
+/home/petrus/Pulpit/c#.net/CSharpConsoleApp/bin/Debug/netcoreapp3.1/CSharpConsoleApp.deps.json
+/home/petrus/Pulpit/c#.net/CSharpConsoleApp/bin/Debug/netcoreapp3.1/CSharpConsoleApp.runtimeconfig.json
+/home/petrus/Pulpit/c#.net/CSharpConsoleApp/bin/Debug/netcoreapp3.1/CSharpConsoleApp.runtimeconfig.dev.json
+/home/petrus/Pulpit/c#.net/CSharpConsoleApp/bin/Debug/netcoreapp3.1/CSharpConsoleApp.dll
+/home/petrus/Pulpit/c#.net/CSharpConsoleApp/bin/Debug/netcoreapp3.1/CSharpConsoleApp.pdb
+/home/petrus/Pulpit/c#.net/CSharpConsoleApp/obj/Debug/netcoreapp3.1/CSharpConsoleApp.csprojAssemblyReference.cache
+/home/petrus/Pulpit/c#.net/CSharpConsoleApp/obj/Debug/netcoreapp3.1/CSharpConsoleApp.csproj.CoreCompileInputs.cache
+/home/petrus/Pulpit/c#.net/CSharpConsoleApp/obj/Debug/netcoreapp3.1/CSharpConsoleApp.AssemblyInfoInputs.cache
+/home/petrus/Pulpit/c#.net/CSharpConsoleApp/obj/Debug/netcoreapp3.1/CSharpConsoleApp.AssemblyInfo.cs
+/home/petrus/Pulpit/c#.net/CSharpConsoleApp/obj/Debug/netcoreapp3.1/CSharpConsoleApp.dll
+/home/petrus/Pulpit/c#.net/CSharpConsoleApp/obj/Debug/netcoreapp3.1/CSharpConsoleApp.pdb
+/home/petrus/Pulpit/c#.net/CSharpConsoleApp/obj/Debug/netcoreapp3.1/CSharpConsoleApp.genruntimeconfig.cache
+/home/petrus/Pulpit/c#.net/CSharpConsoleApp/bin/Debug/netcoreapp3.1/NetTopologySuite.dll
+/home/petrus/Pulpit/c#.net/CSharpConsoleApp/bin/Debug/netcoreapp3.1/NetTopologySuite.Features.dll
+/home/petrus/Pulpit/c#.net/CSharpConsoleApp/bin/Debug/netcoreapp3.1/NetTopologySuite.IO.ShapeFile.dll
+/home/petrus/Pulpit/c#.net/CSharpConsoleApp/obj/Debug/netcoreapp3.1/CSharpConsoleApp.csproj.CopyComplete
+/home/petrus/Pulpit/c#.net/CSharpConsoleApp/bin/Debug/netcoreapp3.1/GeoAPI.dll
+/home/petrus/Pulpit/c#.net/CSharpConsoleApp/CSharpConsoleApp/bin/Debug/netcoreapp3.1/CSharpConsoleApp
+/home/petrus/Pulpit/c#.net/CSharpConsoleApp/CSharpConsoleApp/bin/Debug/netcoreapp3.1/CSharpConsoleApp.deps.json
+/home/petrus/Pulpit/c#.net/CSharpConsoleApp/CSharpConsoleApp/bin/Debug/netcoreapp3.1/CSharpConsoleApp.runtimeconfig.json
+/home/petrus/Pulpit/c#.net/CSharpConsoleApp/CSharpConsoleApp/bin/Debug/netcoreapp3.1/CSharpConsoleApp.runtimeconfig.dev.json
+/home/petrus/Pulpit/c#.net/CSharpConsoleApp/CSharpConsoleApp/bin/Debug/netcoreapp3.1/CSharpConsoleApp.dll
+/home/petrus/Pulpit/c#.net/CSharpConsoleApp/CSharpConsoleApp/bin/Debug/netcoreapp3.1/CSharpConsoleApp.pdb
+/home/petrus/Pulpit/c#.net/CSharpConsoleApp/CSharpConsoleApp/bin/Debug/netcoreapp3.1/GeoAPI.dll
+/home/petrus/Pulpit/c#.net/CSharpConsoleApp/CSharpConsoleApp/bin/Debug/netcoreapp3.1/NetTopologySuite.dll
+/home/petrus/Pulpit/c#.net/CSharpConsoleApp/CSharpConsoleApp/bin/Debug/netcoreapp3.1/NetTopologySuite.Features.dll
+/home/petrus/Pulpit/c#.net/CSharpConsoleApp/CSharpConsoleApp/bin/Debug/netcoreapp3.1/NetTopologySuite.IO.ShapeFile.dll
+/home/petrus/Pulpit/c#.net/CSharpConsoleApp/CSharpConsoleApp/obj/Debug/netcoreapp3.1/CSharpConsoleApp.csprojAssemblyReference.cache
+/home/petrus/Pulpit/c#.net/CSharpConsoleApp/CSharpConsoleApp/obj/Debug/netcoreapp3.1/CSharpConsoleApp.csproj.CoreCompileInputs.cache
+/home/petrus/Pulpit/c#.net/CSharpConsoleApp/CSharpConsoleApp/obj/Debug/netcoreapp3.1/CSharpConsoleApp.AssemblyInfoInputs.cache
+/home/petrus/Pulpit/c#.net/CSharpConsoleApp/CSharpConsoleApp/obj/Debug/netcoreapp3.1/CSharpConsoleApp.AssemblyInfo.cs
+/home/petrus/Pulpit/c#.net/CSharpConsoleApp/CSharpConsoleApp/obj/Debug/netcoreapp3.1/CSharpConsoleApp.csproj.CopyComplete
+/home/petrus/Pulpit/c#.net/CSharpConsoleApp/CSharpConsoleApp/obj/Debug/netcoreapp3.1/CSharpConsoleApp.dll
+/home/petrus/Pulpit/c#.net/CSharpConsoleApp/CSharpConsoleApp/obj/Debug/netcoreapp3.1/CSharpConsoleApp.pdb
+/home/petrus/Pulpit/c#.net/CSharpConsoleApp/CSharpConsoleApp/obj/Debug/netcoreapp3.1/CSharpConsoleApp.genruntimeconfig.cache
+C:\Users\Petrus\Desktop\CSharpConsoleApp\CSharpConsoleApp\obj\Debug\netcoreapp3.1\CSharpConsoleApp.dll
+C:\Users\Petrus\Desktop\CSharpConsoleApp\CSharpConsoleApp\obj\Debug\netcoreapp3.1\CSharpConsoleApp.pdb
+C:\Users\Petrus\Desktop\CSharpConsoleApp\CSharpConsoleApp\bin\Debug\netcoreapp3.1\CSharpConsoleApp.exe
+C:\Users\Petrus\Desktop\CSharpConsoleApp\CSharpConsoleApp\bin\Debug\netcoreapp3.1\CSharpConsoleApp.deps.json
+C:\Users\Petrus\Desktop\CSharpConsoleApp\CSharpConsoleApp\bin\Debug\netcoreapp3.1\CSharpConsoleApp.runtimeconfig.json
+C:\Users\Petrus\Desktop\CSharpConsoleApp\CSharpConsoleApp\bin\Debug\netcoreapp3.1\CSharpConsoleApp.runtimeconfig.dev.json
+C:\Users\Petrus\Desktop\CSharpConsoleApp\CSharpConsoleApp\bin\Debug\netcoreapp3.1\CSharpConsoleApp.dll
+C:\Users\Petrus\Desktop\CSharpConsoleApp\CSharpConsoleApp\bin\Debug\netcoreapp3.1\CSharpConsoleApp.pdb
+C:\Users\Petrus\Desktop\CSharpConsoleApp\CSharpConsoleApp\bin\Debug\netcoreapp3.1\GeoAPI.dll
+C:\Users\Petrus\Desktop\CSharpConsoleApp\CSharpConsoleApp\bin\Debug\netcoreapp3.1\NetTopologySuite.dll
+C:\Users\Petrus\Desktop\CSharpConsoleApp\CSharpConsoleApp\bin\Debug\netcoreapp3.1\NetTopologySuite.Features.dll
+C:\Users\Petrus\Desktop\CSharpConsoleApp\CSharpConsoleApp\bin\Debug\netcoreapp3.1\NetTopologySuite.IO.ShapeFile.dll
+C:\Users\Petrus\Desktop\CSharpConsoleApp\CSharpConsoleApp\obj\Debug\netcoreapp3.1\CSharpConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Petrus\Desktop\CSharpConsoleApp\CSharpConsoleApp\obj\Debug\netcoreapp3.1\CSharpConsoleApp.AssemblyInfo.cs
+C:\Users\Petrus\Desktop\CSharpConsoleApp\CSharpConsoleApp\obj\Debug\netcoreapp3.1\CSharpConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Petrus\Desktop\CSharpConsoleApp\CSharpConsoleApp\obj\Debug\netcoreapp3.1\CSharpConsoleApp.csproj.CopyComplete
+C:\Users\Petrus\Desktop\CSharpConsoleApp\CSharpConsoleApp\obj\Debug\netcoreapp3.1\CSharpConsoleApp.genruntimeconfig.cache
+C:\Users\Petrus\Desktop\Nowy folder\CSharpConsoleApp\CSharpConsoleApp\bin\Debug\netcoreapp3.1\CSharpConsoleApp.exe
+C:\Users\Petrus\Desktop\Nowy folder\CSharpConsoleApp\CSharpConsoleApp\bin\Debug\netcoreapp3.1\CSharpConsoleApp.deps.json
+C:\Users\Petrus\Desktop\Nowy folder\CSharpConsoleApp\CSharpConsoleApp\bin\Debug\netcoreapp3.1\CSharpConsoleApp.runtimeconfig.json
+C:\Users\Petrus\Desktop\Nowy folder\CSharpConsoleApp\CSharpConsoleApp\bin\Debug\netcoreapp3.1\CSharpConsoleApp.runtimeconfig.dev.json
+C:\Users\Petrus\Desktop\Nowy folder\CSharpConsoleApp\CSharpConsoleApp\bin\Debug\netcoreapp3.1\CSharpConsoleApp.dll
+C:\Users\Petrus\Desktop\Nowy folder\CSharpConsoleApp\CSharpConsoleApp\bin\Debug\netcoreapp3.1\CSharpConsoleApp.pdb
+C:\Users\Petrus\Desktop\Nowy folder\CSharpConsoleApp\CSharpConsoleApp\bin\Debug\netcoreapp3.1\GeoAPI.dll
+C:\Users\Petrus\Desktop\Nowy folder\CSharpConsoleApp\CSharpConsoleApp\bin\Debug\netcoreapp3.1\NetTopologySuite.dll
+C:\Users\Petrus\Desktop\Nowy folder\CSharpConsoleApp\CSharpConsoleApp\bin\Debug\netcoreapp3.1\NetTopologySuite.Features.dll
+C:\Users\Petrus\Desktop\Nowy folder\CSharpConsoleApp\CSharpConsoleApp\bin\Debug\netcoreapp3.1\NetTopologySuite.IO.ShapeFile.dll
+C:\Users\Petrus\Desktop\Nowy folder\CSharpConsoleApp\CSharpConsoleApp\obj\Debug\netcoreapp3.1\CSharpConsoleApp.csprojAssemblyReference.cache
+C:\Users\Petrus\Desktop\Nowy folder\CSharpConsoleApp\CSharpConsoleApp\obj\Debug\netcoreapp3.1\CSharpConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Petrus\Desktop\Nowy folder\CSharpConsoleApp\CSharpConsoleApp\obj\Debug\netcoreapp3.1\CSharpConsoleApp.AssemblyInfo.cs
+C:\Users\Petrus\Desktop\Nowy folder\CSharpConsoleApp\CSharpConsoleApp\obj\Debug\netcoreapp3.1\CSharpConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Petrus\Desktop\Nowy folder\CSharpConsoleApp\CSharpConsoleApp\obj\Debug\netcoreapp3.1\CSharpConsoleApp.csproj.CopyComplete
+C:\Users\Petrus\Desktop\Nowy folder\CSharpConsoleApp\CSharpConsoleApp\obj\Debug\netcoreapp3.1\CSharpConsoleApp.dll
+C:\Users\Petrus\Desktop\Nowy folder\CSharpConsoleApp\CSharpConsoleApp\obj\Debug\netcoreapp3.1\CSharpConsoleApp.pdb
+C:\Users\Petrus\Desktop\Nowy folder\CSharpConsoleApp\CSharpConsoleApp\obj\Debug\netcoreapp3.1\CSharpConsoleApp.genruntimeconfig.cache
